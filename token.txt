@@ -1,0 +1,2 @@
+1. go to settings and choose developer option and generate the key
+2. use the git pull command to pull the changes from repo
